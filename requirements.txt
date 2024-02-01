@@ -1,0 +1,9 @@
+Flask
+numpy
+pandas
+pymongo
+python-dotenv>=0.19.2
+Requests>=2.27.1
+statsmodels
+Werkzeug==2.3.7
+yahoofinancials
